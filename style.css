@@ -1,0 +1,16 @@
+body{background-color: black;}
+.Meme{color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.ricky{
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    text-transform: uppercase;
+    font-family:"Libre Baskerville";
+}
